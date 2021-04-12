@@ -2,7 +2,7 @@
 <p align="center"><b>A web based selife application allowing to make selfies on 360 photo backgrounds.</b><br><br>
 <img src="https://raw.githubusercontent.com/akbartus/selfie360/main/images/example_screenshot.jpg">
 </p>
-
+Link to the example app: https://selfie-360.glitch.me/
 
 
 ## Features
