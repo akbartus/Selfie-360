@@ -1,5 +1,6 @@
 <h1 align="center">Selfie 360</h1>
-https://raw.githubusercontent.com/akbartus/selfie360/main/images/example_screenshot.jpg
+![](<images/example_screenshot.jpg>)
+
 <p align="center"><b>A web based selife application allowing to make selfies on 360 photo backgrounds.</b></p>
 
 ## Features
