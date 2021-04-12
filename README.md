@@ -11,12 +11,15 @@
 :wrench: **Created using A-Frame and Machine Leanring**: The application was created using latest version of A-Frame, Tensorflow.js and BodyPix.js
 
 ## Usage
+Running:
 1. Copy the repository to your own server (local/online). 
 2. Run it.
 3. Upload your own 360 photo or add a link to 360 photo that is available online
 4. Choose perspective, and if necessary, zoom in or out. 
 5. Activate selfie by clicking a button
 6. Decide whether to save or take a new photo.
+
+Feel free to upgrade or integrate within your projects. 
 
 ### Inspiration
 Selfie 360 was developed (and further improved) using Benson Ruan's "Selfie Anywhere" app (https://github.com/bensonruan/Selfie-Anywhere).
