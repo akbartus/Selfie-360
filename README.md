@@ -1,106 +1,20 @@
-<h1 align="center">A-Frame</h1>
+<h1 align="center">Selfie 360</h1>
 
-<p align="center"><a href="https://aframe.io" target="_blank"><img width="480" alt="A-Frame" src="https://user-images.githubusercontent.com/674727/32120889-230ef110-bb0f-11e7-908c-76e39aa43149.jpg"></a></p>
-
-<p align="center"><b>A web framework for building virtual reality experiences.</b></p>
-
-<p align="center">
-  <a href="https://travis-ci.org/aframevr/aframe"><img src="https://img.shields.io/travis/aframevr/aframe.svg?style=flat-square" alt="Build Status"></a>
-  <a href="https://codecov.io/gh/aframevr/aframe">
-    <img src="https://codecov.io/gh/aframevr/aframe/branch/master/graph/badge.svg" alt="Coverage Status">
-  </a>
-  <a href="https://npmjs.org/package/aframe">
-    <img src="https://img.shields.io/npm/dt/aframe.svg?style=flat-square" alt="Downloads">
-  </a>
-  <a href="https://npmjs.org/package/aframe">
-    <img src="https://img.shields.io/npm/v/aframe.svg?style=flat-square" alt="Version">
-  </a>
-  <a href="https://npmjs.com/package/aframe">
-    <img src="https://img.shields.io/npm/l/aframe.svg?style=flat-square" alt="License"></a>
-  </a>
-</p>
-
-<div align="center">
-  <a href="https://aframe.io">Site</a>
-  &mdash;
-  <a href="https://aframe.io/docs/">Docs</a>
-  &mdash;
-  <a href="https://aframe.io/school/">School</a>
-  &mdash;
-  <a href="https://aframe.io/slack-invite/">Slack</a>
-  &mdash;
-  <a href="https://aframe.io/blog/">Blog</a>
-  &mdash;
-  <a href="https://aframe.io/subscribe/">Newsletter</a>
-</div>
-
-<h3 align="center">Special Sponsors</h3>
-<!--special start-->
-<p align="center">
-  <a href="https://planetvoodoo.org/" target="_blank">
-    <img width="120px" src="https://user-images.githubusercontent.com/39342/112707090-da492580-8e65-11eb-88c5-be39f48544f6.jpg">
-  </a>
-</p>  
-<!--special end-->
-
-## Examples
-
-<a href="https://supermedium.com/supercraft">
-  <img alt="Supercraft" target="_blank" src="https://user-images.githubusercontent.com/674727/41085457-f5429566-69eb-11e8-92e5-3210e4c6c4a0.gif" height="190" width="32%">
-</a>
-<a href="https://aframe.io/a-painter/?url=https://ucarecdn.com/962b242b-87a9-422c-b730-febdc470f203/">
-  <img alt="A-Painter" target="_blank" src="https://cloud.githubusercontent.com/assets/674727/24531388/acfc3dda-156d-11e7-8563-5bd75252f70f.gif" height="190" width="32%">
-</a>
-<a href="https://supermedium.com">
-  <img alt="Supermedium" target="_blank" src="https://user-images.githubusercontent.com/674727/37294616-7212cd20-25d3-11e8-9e7f-c0c61074f1e0.png" height="190" width="32%">
-</a>
-<a href="https://aframe.io/a-blast/">
-  <img alt="A-Blast" target="_blank" src="https://cloud.githubusercontent.com/assets/674727/24531440/0336e66e-156e-11e7-95c2-f2e6ebc0393d.gif" height="190" width="32%">
-</a>
-<a href="https://aframe.io/a-saturday-night/">
-  <img alt="A-Saturday-Night" target="_blank" src="https://cloud.githubusercontent.com/assets/674727/24531477/44272daa-156e-11e7-8ef9-d750ed430f3a.gif" height="190" width="32%">
-</a>
-<a href="https://github.com/googlecreativelab/webvr-musicalforest">
-  <img alt="Musical Forest by @googlecreativelab" target="_blank" src="https://cloud.githubusercontent.com/assets/674727/25109861/b8e9ec48-2394-11e7-8f2d-ea1cd9df69c8.gif" height="190" width="32%">
-</a>
-
-*Find more examples on [the homepage](https://aframe.io), [A Week of A-Frame](https://aframe.io/blog/), and [WebVR Directory](https://webvr.directory).*
+<p align="center"><b>A web based selife application allowing to make selfies on 360 photo backgrounds.</b></p>
 
 ## Features
 
-:eyeglasses: **Virtual Reality Made Simple**: A-Frame handles the 3D and WebVR
-boilerplate required to get running across platforms including mobile, desktop, Vive, and Rift just by dropping in `<a-scene>`.
+:camera: **Upload  own 360 photo or use available one on Internet**: Upload own desired 360 photo (of any size) or decide to use the link to a 360 photo that is available on Internet.
 
-:heart: **Declarative HTML**: HTML is easy to read and copy-and-paste. Since
-A-Frame can be used from HTML, A-Frame is accessible to everyone: web
-developers, VR enthusiasts, educators, artists, makers, kids.
-
-:electric_plug: **Entity-Component Architecture**: A-Frame is a powerful
-framework on top of three.js, providing a declarative, composable, reusable
-entity-component structure for three.js. While A-Frame can be used from HTML,
-developers have unlimited access to JavaScript, DOM APIs, three.js, WebVR, and
-WebGL.
-
-:zap: **Performance**: A-Frame is a thin framework on top of three.js.
-Although A-Frame uses the DOM, A-Frame does not touch the browser layout
-engine. Performance is a top priority, being battle-tested on highly
-interactive WebVR experiences.
-
-:globe_with_meridians: **Cross-Platform**: Build VR applications for Vive,
-Rift, Daydream, GearVR, and Cardboard. Don't have a headset or controllers? No
-problem! A-Frame still works on standard desktop and smartphones.
-
-:mag: **Visual Inspector**: A-Frame provides a built-in visual 3D inspector
-with a workflow similar to a browser's developer tools and interface similar to
-Unity. Open up any A-Frame scene and hit `<ctrl> + <alt> + i`.
-
-:runner: **Features**: Hit the ground running with A-Frame's built-in
-components such as geometries, materials, lights, animations, models,
-raycasters, shadows, positional audio, tracked controllers. Get even further
-with community components such as particle systems, physics, multiuser, oceans,
-mountains, speech recognition, or teleportation!
+:heavy_plus_sign: **Change perspective and zoom in or out**: Change the background/perspective and if necessary, zoom in or out.
 
 ## Usage
+1. Copy the repository to your own server (local/online). 
+2. Run it.
+3. Upload your own 360 photo or add a link to 360 photo that is available online
+4. Choose perspective, and if necessary, zoom in or out. 
+5. Activate selfie by clicking a button
+6. Decide whether to save or take a new photo
 
 ### Example
 
