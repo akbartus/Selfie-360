@@ -18,6 +18,5 @@
 5. Activate selfie by clicking a button
 6. Decide whether to save or take a new photo.
 
-### Credits
-Selfie 360 was developed and further improved using Benson Ruan's "Selfie Anywhere" app (https://github.com/bensonruan/Selfie-Anywhere)[entity-component
-architecture](https://aframe.io/docs/1.2.0/introduction/entity-component-system.html)
+### Inspiration
+Selfie 360 was developed (and further improved) using Benson Ruan's "Selfie Anywhere" app (https://github.com/bensonruan/Selfie-Anywhere).
