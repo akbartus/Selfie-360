@@ -21,5 +21,8 @@ Running:
 
 Feel free to upgrade or integrate within your projects. 
 
+### Examples
+The app could be integrated into different types of projects, be it related to tourism or history. One example of integration could be a VR tour that offers an opportunity to take selfies. Example: https://ohiotoday.org/CollegeGreenVR/. 
+
 ### Inspiration
 Selfie 360 was developed (and further improved) using Benson Ruan's "Selfie Anywhere" app (https://github.com/bensonruan/Selfie-Anywhere).
